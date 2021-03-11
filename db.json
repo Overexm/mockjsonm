@@ -1,0 +1,159 @@
+{
+  "post": [
+    {"id": 1,"email": "kamila0907@gmail.com","password": "Kami123$"},
+    
+    {"id": 2,"email": "merey08@gmail.com","password": "Merey457#"},
+    
+    {"id": 3,"email": "merinmer7@gmail.com","password": "Mer123$6"},
+    
+    {"id": 4,"email": "emma77@gmail.com","password": "Modern378*"},
+     
+    {"id": 5,"email": "mike09@mail.ru","password": "Nunu3478*"},
+     
+    {"id": 6, "email": "phone3478@icloud.com","password": "Mbvd123$6"},
+     
+    {"id": 7,"email": "mangoa25@gmail.com","password": "Mangom24#"},
+     
+    { "id": 8, "email": "dbms456@gmail.com", "password": "Dbmde123$6"},
+     
+    {"id": 9, "email": "taetae30@gmail.com","password": "Alwaysbecool45&"},
+     
+    { "id": 10,"email": "Kamikami3@gmail.com","password": "Coolgirl89$"}
+    
+  ],
+  
+  "delivery": [
+    {"id": 1,"name": "KFC"} ,
+    
+    {"id": 2,"name": "Burger King"},
+  
+    {"id": 3, "name": "Salam Bro"},
+    
+    {"id": 4,"name": "McDonalds"},
+   
+    { "id": 5, "name": "Rumi"},
+    
+    {"id": 6, "name": "Hardee's"},
+     
+    
+    { "id": 7,"name": "Zomato"},
+    
+    {"id": 8,"name": "Subway"},
+    
+    {"id": 9,"name": "Dodo Pizza"},
+     
+    {"id": 10,"name": "Domino's Pizza"}
+     
+    
+   
+    
+  ],
+  
+  "fast-food": [
+    
+      {"id": 1,"meal_n": "chicken","price": "10 $"},
+     
+    
+    {"id": 2,"meal_n": "burger","price": "5 $"},
+     
+    
+    {"id": 3,"meal_n": "hamburger","price": "4 $"},
+     
+    
+    {"id": 4, "meal_n": "chickenburger","price": "10 $"},
+     
+    
+   {
+      "id": 5,"meal_n": "cheeseburger", "price": "8 $"},
+     
+    
+    
+    { "id": 6,"meal_n": "pizza pepperoni", "price": "5 $"},
+     
+    
+    {
+      "id": 7,"meal_n": "french fries","price": "3 $"},
+     
+    
+    {"id": 8, "meal_n": "pizza margarita","price": "9 $"},
+     
+    
+    {
+      "id": 9,"meal_n": "twister", "price": "7 $"},
+     
+    
+    {
+      "id": 10,"meal_n": "nuggets","price": "7 $"}
+     
+    
+   
+    
+  ],
+  
+  "drinks": [
+    {
+      "id": 1,"drink_n": "Coca-Cola","size":"big","price": "2$"},
+     
+    
+    {
+      "id": 2,"drink_n": "Pepsi","size":"medium","price": "1$"},
+     
+    
+    {
+      "id": 3,"drink_n": "Fanta","size":"small","price": "0.5$"},
+     
+    
+    {
+      "id": 4,"drink_n": "Merinda","size":"big", "price": "2$"},
+     
+    
+  {
+      "id": 5,"drink_n": "Tea", "size":"small","price": "0.3$"},
+     
+    
+    {
+      "id": 6, "drink_n": "Green tea","size":"small","price": "0.4$"},
+    {
+      "id": 7,"drink_n": "Latte","size":"small","price": "1.7$"},
+    {
+      "id": 8, "drink_n": "Americano","size":"medium","price": "1.5$"}
+    ,
+    {
+      "id": 9,"drink_n": "Cappuccino","size":"medium","price": "2$"} ,
+    {
+      "id": 10,"drink_n": "Fruit juice", "size":"big","price": "1.3$"}
+     
+    
+   
+    
+  ],
+  "staff": [
+    {
+      "id": 1,"s_name": "Tom","rating":"5/5"} ,
+     {
+      "id": 2,"s_name": "John","rating":"4/5"},
+     {
+      "id": 3, "s_name": "Oliver","rating":"5/5"} ,
+     {
+      "id": 4,"s_name": "Lukas", "rating":"4/5"} ,
+  {
+      "id": 5, "s_name": "Leo","rating":"5/5"} ,
+     {
+      "id": 6,"s_name": "Liam","rating":"3/5"} ,
+     {
+      "id": 7,"s_name": "Samuel","rating":"5/5"}  
+    ,
+    {
+      "id": 8, "s_name": "Christopher","rating":"4/5"},
+    {
+      "id": 9,"s_name": "Dylan", "rating":"4/5"}  
+    ,
+     {
+      "id": 10,"s_name": "Colin", "rating":"3/5"}
+      
+     
+    
+    
+  ]
+  }
+  
